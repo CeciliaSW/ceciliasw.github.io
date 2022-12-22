@@ -37,7 +37,7 @@ This web page was built with:
 * JavaScript 
 * Bootstrap 5
 
-Besides,**Google Fonts** was addressed to personalize the fonts, along with **Bootstrap icons** to incorporate icons like arrows and social media logos.
+Besides, **Google Fonts** was addressed to personalize the fonts, along with **Bootstrap icons** to incorporate icons like arrows and social media logos.
 
 
 
